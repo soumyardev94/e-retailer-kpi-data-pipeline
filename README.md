@@ -1,4 +1,4 @@
-# 📊 European Fashion E-Commerce Growth Watchlist  
+# 📊 E-Retailer KPI Data Pipeline - Watchlist  
 *A Data Pipeline, Quality Engine & KPI Product (Synthetic Data)*
 
 ---
