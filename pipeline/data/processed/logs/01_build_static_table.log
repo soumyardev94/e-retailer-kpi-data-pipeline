@@ -1,0 +1,6 @@
+Run: 01_build_static_table.py
+Input: D:\PROJECTS\ECDB - Data Project Manager\Data Pipeline\pipeline\data\raw\company_list.csv
+Output: D:\PROJECTS\ECDB - Data Project Manager\Data Pipeline\pipeline\data\processed\retailer_static.csv
+Rows: 27
+Columns: ['company_id', 'company_name', 'country', 'notes', 'status', 'created_at', 'updated_at']
+Issues: none

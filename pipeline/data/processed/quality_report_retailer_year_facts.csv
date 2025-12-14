@@ -1,0 +1,11 @@
+check,result,details
+rows_gt_0,PASS,rows=3
+missing_company_id,PASS,missing=0
+missing_company_name,PASS,missing=0
+missing_year,PASS,missing=0
+unique_company_year,PASS,duplicates=0
+year_valid_range_2000_2026,PASS,invalid_years=0
+coverage_revenue,PASS,missing=0 of 3
+no_negative_revenue,PASS,negative=0
+coverage_employees,PASS,missing=0 of 3
+no_negative_employees,PASS,negative=0

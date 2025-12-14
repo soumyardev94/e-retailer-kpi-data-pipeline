@@ -1,0 +1,55 @@
+company_id,company_name,year,metric_name,metric_value,currency,notes,source_url,source_type,last_updated
+ZAL,Zalando,2020,revenue,8000,EUR,synthetic,https://example.com,synthetic,2025-12-14
+ZAL,Zalando,2020,employees,12000,,synthetic,https://example.com,synthetic,2025-12-14
+ZAL,Zalando,2021,revenue,8600,EUR,synthetic,https://example.com,synthetic,2025-12-14
+ZAL,Zalando,2021,employees,12500,,synthetic,https://example.com,synthetic,2025-12-14
+ZAL,Zalando,2022,revenue,9200,EUR,synthetic,https://example.com,synthetic,2025-12-14
+ZAL,Zalando,2022,employees,13000,,synthetic,https://example.com,synthetic,2025-12-14
+ZAL,Zalando,2023,revenue,9800,EUR,synthetic,https://example.com,synthetic,2025-12-14
+ZAL,Zalando,2023,employees,13500,,synthetic,https://example.com,synthetic,2025-12-14
+ZAL,Zalando,2024,revenue,10400,EUR,synthetic,https://example.com,synthetic,2025-12-14
+ZAL,Zalando,2024,employees,14000,,synthetic,https://example.com,synthetic,2025-12-14
+
+ASOS,ASOS,2020,revenue,4200,GBP,synthetic,https://example.com,synthetic,2025-12-14
+ASOS,ASOS,2020,employees,32000,,synthetic,https://example.com,synthetic,2025-12-14
+ASOS,ASOS,2021,revenue,4000,GBP,synthetic,https://example.com,synthetic,2025-12-14
+ASOS,ASOS,2021,employees,31000,,synthetic,https://example.com,synthetic,2025-12-14
+ASOS,ASOS,2022,revenue,3600,GBP,synthetic,https://example.com,synthetic,2025-12-14
+ASOS,ASOS,2022,employees,30000,,synthetic,https://example.com,synthetic,2025-12-14
+ASOS,ASOS,2023,revenue,3300,GBP,synthetic,https://example.com,synthetic,2025-12-14
+ASOS,ASOS,2023,employees,29500,,synthetic,https://example.com,synthetic,2025-12-14
+ASOS,ASOS,2024,revenue,3500,GBP,synthetic,https://example.com,synthetic,2025-12-14
+ASOS,ASOS,2024,employees,29000,,synthetic,https://example.com,synthetic,2025-12-14
+
+ABOUT,About You,2020,revenue,900,EUR,synthetic,https://example.com,synthetic,2025-12-14
+ABOUT,About You,2020,employees,3500,,synthetic,https://example.com,synthetic,2025-12-14
+ABOUT,About You,2021,revenue,1100,EUR,synthetic,https://example.com,synthetic,2025-12-14
+ABOUT,About You,2021,employees,3800,,synthetic,https://example.com,synthetic,2025-12-14
+ABOUT,About You,2022,revenue,1400,EUR,synthetic,https://example.com,synthetic,2025-12-14
+ABOUT,About You,2022,employees,4200,,synthetic,https://example.com,synthetic,2025-12-14
+ABOUT,About You,2023,revenue,1900,EUR,synthetic,https://example.com,synthetic,2025-12-14
+ABOUT,About You,2023,employees,5000,,synthetic,https://example.com,synthetic,2025-12-14
+ABOUT,About You,2024,revenue,2500,EUR,synthetic,https://example.com,synthetic,2025-12-14
+ABOUT,About You,2024,employees,5400,,synthetic,https://example.com,synthetic,2025-12-14
+
+VEEPEE,Veepee,2020,revenue,1800,EUR,synthetic,https://example.com,synthetic,2025-12-14
+VEEPEE,Veepee,2020,employees,9000,,synthetic,https://example.com,synthetic,2025-12-14
+VEEPEE,Veepee,2021,revenue,1850,EUR,synthetic,https://example.com,synthetic,2025-12-14
+VEEPEE,Veepee,2021,employees,9200,,synthetic,https://example.com,synthetic,2025-12-14
+VEEPEE,Veepee,2022,revenue,1900,EUR,synthetic,https://example.com,synthetic,2025-12-14
+VEEPEE,Veepee,2022,employees,,,"missing employees on purpose",https://example.com,synthetic,2025-12-14
+VEEPEE,Veepee,2023,Revenue ,2000,EUR,"metric name has casing+space",https://example.com,synthetic,2025-12-14
+VEEPEE,Veepee,2023,employees,9500,,synthetic,https://example.com,synthetic,2025-12-14
+VEEPEE,Veepee,2024,revenue,2050,EUR,synthetic,https://example.com,synthetic,2025-12-14
+VEEPEE,Veepee,2024,employees,9800,,synthetic,https://example.com,synthetic,2025-12-14
+
+BOOH,Boohoo,2020,revenue,1600,GBP,synthetic,https://example.com,synthetic,2025-12-14
+BOOH,Boohoo,2020,employees,4200,,synthetic,https://example.com,synthetic,2025-12-14
+BOOH,Boohoo,2021,revenue,1700,GBP,synthetic,https://example.com,synthetic,2025-12-14
+BOOH,Boohoo,2021,employees,4300,,synthetic,https://example.com,synthetic,2025-12-14
+BOOH,Boohoo,2022,revenue,5200,GBP,"spike year",https://example.com,synthetic,2025-12-14
+BOOH,Boohoo,2022,employees,4400,,synthetic,https://example.com,synthetic,2025-12-14
+BOOH,Boohoo,2023,revenue,2400,GBP,"post-spike normalization",https://example.com,synthetic,2025-12-14
+BOOH,Boohoo,2023,employees,4500,,synthetic,https://example.com,synthetic,2025-12-14
+BOOH,Boohoo,2024,revenue,2300,GBP,synthetic,https://example.com,synthetic,2025-12-14
+BOOH,Boohoo,2024,employees,4550,,synthetic,https://example.com,synthetic,2025-12-14
